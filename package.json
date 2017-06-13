@@ -1,0 +1,16 @@
+{
+  "name": "headerparser",
+  "version": "0.0.1",
+  "description": "I can get the IP address, language and operating system for my browser.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js",
+  },
+  "author": "Aswath",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.15.3",
+    "ip": "^1.1.5"
+  }
+}
